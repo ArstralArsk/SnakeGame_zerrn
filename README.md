@@ -1,4 +1,5 @@
 Simple Snakegame in Cmd with C language.
+
 I submitted it as an assignment in college in 2022.
 
 ## Sound assets is NOT mine. Be careful using them. ##
